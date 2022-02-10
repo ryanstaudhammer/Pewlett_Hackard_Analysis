@@ -10,5 +10,5 @@ The first step was to determine who will be eligible to retire based on age. To 
 * A mentoership program of employees born in 1965 alone will no be enough to replace all those that could retire soon.
 * If the mentorship program were extended to those born after 1965, there still will not be enough folks to fill those roles.
 * Why? For some odd reason, this company doesn't have employees that were born after 1965.
- /n
+
 In an attempt to bolster 
