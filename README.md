@@ -6,3 +6,5 @@ The first step was to determine who will be eligible to retire based on age. To 
 
 * ![](https://github.com/ryanstaudhammer/Pewlett_Hackard_Analysis/blob/main/Resources/Retirees_by_Dept.png)
 
+* Senior Engineers and Senior Staff will account for nearly 50,000 vacancies
+* 
