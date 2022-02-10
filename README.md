@@ -7,5 +7,6 @@ The first step was to determine who will be eligible to retire based on age. To 
 * ![](https://github.com/ryanstaudhammer/Pewlett_Hackard_Analysis/blob/main/Resources/Retirees_by_Dept.png)
 
 * Senior Engineers and Senior Staff will account for nearly 50,000 vacancies
-* Current staff that is younger than retirement age falls short of being able to replace all those that could retire soon.
+* A mentoership program of employees born in 1965 alone may be enough to replace all those that could retire soon.
+* 
 *  
